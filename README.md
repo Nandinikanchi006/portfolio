@@ -11,7 +11,7 @@
 
 ## 🌐 Live Site
 
-**[https://nandinikanchi006.github.io/portfolio](https://nandinikanchi006.github.io/portfolio)**
+**https://nandinikanchi006.github.io/portfolio**
 
 ---
 
